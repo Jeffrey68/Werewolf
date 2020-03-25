@@ -1,4 +1,4 @@
-# Werewolf for Telegram
+# Werewolf for Telegram 
 
 This is the main repo for Werewolf for Telegram.
 
